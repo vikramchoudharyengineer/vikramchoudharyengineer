@@ -1,4 +1,5 @@
 ## Hi there 👋
+This is my first git repository
 
 <!--
 **vikramchoudharyengineer/vikramchoudharyengineer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
